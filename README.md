@@ -8,7 +8,7 @@
 </h1>
 
 ```shell
-gatsby new my-theme https://github.com/gatsbyjs/gatsby-starter-theme-workspace
+gatsby new my-theme https://github.com/nimblethemes/gatsby-starter-theme-workspace
 cd my-theme
 yarn workspace example develop
 ```
